@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://ivandefender.github.io/Eyes-on-the-Screen/">View Project |</a>
-    <a href="https://github.com/Ivandefender/Eyes-on-the-Screen/blob/main/js/script.js">View Code</a>
+    <a href="https://github.com/Ivandefender/Eyes-on-the-Screen">View Code</a>
 </div>
 
 <p align="center">
